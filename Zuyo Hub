@@ -1,7 +1,7 @@
 if game.placeId == 155615604 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Yay/main/Prison%20Life%20Zuyo%20Hub'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Prison%20Life%20Zuyo%20Hub'))()
 elseif game.placeId == 6191637341 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Yay/main/Weapon%20Simulator%202%20Zuyo%20Hub'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Weapon%20Simulator%202%20Zuyo%20Hub'))()
 else
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Yay/main/Universal%20Zuyo%20Hub'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Universal%20Zuyo%20Hub'))()
 end
