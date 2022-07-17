@@ -3,5 +3,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/mai
 elseif game.placeId == 6191637341 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Weapon%20Simulator%202%20Zuyo%20Hub'))()
 else
-https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Universal%20Zuyo%20Hub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Universal%20Zuyo%20Hub'))()
 end
