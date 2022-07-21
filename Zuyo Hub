@@ -5,7 +5,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/mai
 elseif game.placeId == 7009799230 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Zuyo%20Hub%20Pressure%20Washing%20Simulator'))()
 elseif game.placeId == 6429911702 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Zuyo%20Hub%20Master's%20Difficulty%20Chart%20Obby'))()
+loadstring(game:HttpGet('https://github.com/Vomhitta/Zuyo-Hub/blob/main/Zuyo%20Hub%20Masters%20Difficulty%20Chart%20Obby'))()
 else
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Vomhitta/Zuyo-Hub/main/Universal%20Zuyo%20Hub'))()
 end
